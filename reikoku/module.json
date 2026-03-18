@@ -11,28 +11,24 @@
     "canUpload": true
   },
   "esmodules": ["scripts/reikoku.js"],
+  "manifest": "https://raw.githubusercontent.com/Markus-blip/reikoku/main/reikoku/module.json",
+  "download": "https://github.com/Markus-blip/reikoku/archive/refs/heads/main.zip",
   "packs": [
     {
       "name": "reikoku-items",
       "label": "Reikoku Items",
       "path": "packs/reikoku-items",
       "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" },
       "system": "dnd5e",
       "flags": {}
     },
-	{
+    {
       "name": "reikoku-actors",
       "label": "Reikoku Actors",
       "path": "packs/reikoku-actors",
       "type": "Actor",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" },
       "system": "dnd5e",
       "flags": {}
     }
