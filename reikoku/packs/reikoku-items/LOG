@@ -1,5 +1,5 @@
-2026/03/17-20:04:09.222 5f58 Recovering log #89
-2026/03/17-20:04:09.222 5f58 Level-0 table #92: started
-2026/03/17-20:04:09.227 5f58 Level-0 table #92: 91169 bytes OK
-2026/03/17-20:04:09.235 5f58 Delete type=0 #89
-2026/03/17-20:04:09.236 5f58 Delete type=3 #87
+2026/03/18-20:15:29.788 1fcc Recovering log #98
+2026/03/18-20:15:29.788 1fcc Level-0 table #100: started
+2026/03/18-20:15:29.792 1fcc Level-0 table #100: 49049 bytes OK
+2026/03/18-20:15:29.801 1fcc Delete type=0 #98
+2026/03/18-20:15:29.801 1fcc Delete type=3 #97
