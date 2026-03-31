@@ -1,32 +1,18 @@
-2026/03/31-21:27:49.462 5728 Log #93: 2 ops saved to Table #150 OK
-2026/03/31-21:27:49.464 5728 Archiving C:\Users\marku\Desktop\FoundryDnD\Data\modules\reikoku\packs\reikoku-items/000093.log: OK
-2026/03/31-21:27:49.464 5728 Log #101: 0 ops saved to Table #151 OK
-2026/03/31-21:27:49.466 5728 Archiving C:\Users\marku\Desktop\FoundryDnD\Data\modules\reikoku\packs\reikoku-items/000101.log: OK
-2026/03/31-21:27:49.478 5728 Log #117: 8 ops saved to Table #152 OK
-2026/03/31-21:27:49.480 5728 Archiving C:\Users\marku\Desktop\FoundryDnD\Data\modules\reikoku\packs\reikoku-items/000117.log: OK
-2026/03/31-21:27:49.480 5728 Log #131: 0 ops saved to Table #153 OK
-2026/03/31-21:27:49.482 5728 Archiving C:\Users\marku\Desktop\FoundryDnD\Data\modules\reikoku\packs\reikoku-items/000131.log: OK
-2026/03/31-21:27:49.512 5728 Log #140: 371 ops saved to Table #154 OK
-2026/03/31-21:27:49.514 5728 Archiving C:\Users\marku\Desktop\FoundryDnD\Data\modules\reikoku\packs\reikoku-items/000140.log: OK
-2026/03/31-21:27:49.529 5728 Log #149: 30 ops saved to Table #155 OK
-2026/03/31-21:27:49.530 5728 Archiving C:\Users\marku\Desktop\FoundryDnD\Data\modules\reikoku\packs\reikoku-items/000149.log: OK
-2026/03/31-21:27:49.532 5728 Table #90: 111 entries OK
-2026/03/31-21:27:49.534 5728 Table #92: 98 entries OK
-2026/03/31-21:27:49.541 5728 Table #95: 2 entries OK
-2026/03/31-21:27:49.543 5728 Table #100: 67 entries OK
-2026/03/31-21:27:49.545 5728 Table #114: 136 entries OK
-2026/03/31-21:27:49.549 5728 Table #116: 287 entries OK
-2026/03/31-21:27:49.551 5728 Table #129: 184 entries OK
-2026/03/31-21:27:49.554 5728 Table #141: 243 entries OK
-2026/03/31-21:27:49.558 5728 Table #147: 277 entries OK
-2026/03/31-21:27:49.558 5728 Table #150: 2 entries OK
-2026/03/31-21:27:49.558 5728 Table #152: 8 entries OK
-2026/03/31-21:27:49.561 5728 Table #154: 371 entries OK
-2026/03/31-21:27:49.561 5728 Table #155: 30 entries OK
-2026/03/31-21:27:49.569 5728 Archiving C:\Users\marku\Desktop\FoundryDnD\Data\modules\reikoku\packs\reikoku-items/MANIFEST-000091: OK
-2026/03/31-21:27:49.571 5728 Archiving C:\Users\marku\Desktop\FoundryDnD\Data\modules\reikoku\packs\reikoku-items/MANIFEST-000099: OK
-2026/03/31-21:27:49.573 5728 Archiving C:\Users\marku\Desktop\FoundryDnD\Data\modules\reikoku\packs\reikoku-items/MANIFEST-000115: OK
-2026/03/31-21:27:49.575 5728 Archiving C:\Users\marku\Desktop\FoundryDnD\Data\modules\reikoku\packs\reikoku-items/MANIFEST-000130: OK
-2026/03/31-21:27:49.577 5728 Archiving C:\Users\marku\Desktop\FoundryDnD\Data\modules\reikoku\packs\reikoku-items/MANIFEST-000138: OK
-2026/03/31-21:27:49.579 5728 Archiving C:\Users\marku\Desktop\FoundryDnD\Data\modules\reikoku\packs\reikoku-items/MANIFEST-000148: OK
-2026/03/31-21:27:49.585 5728 **** Repaired leveldb C:\Users\marku\Desktop\FoundryDnD\Data\modules\reikoku\packs\reikoku-items; recovered 13 files; 1565417 bytes. Some data may have been lost. ****
+2026/03/31-21:27:49.618 5728 Delete type=3 #1
+2026/03/31-21:27:49.618 55ac Compacting 13@0 + 0@1 files
+2026/03/31-21:27:49.657 55ac Generated table #158@0: 278 keys, 263085 bytes
+2026/03/31-21:27:49.657 55ac Compacted 13@0 + 0@1 files => 263085 bytes
+2026/03/31-21:27:49.658 55ac compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/31-21:27:49.658 55ac Delete type=2 #90
+2026/03/31-21:27:49.659 55ac Delete type=2 #92
+2026/03/31-21:27:49.659 55ac Delete type=2 #95
+2026/03/31-21:27:49.659 55ac Delete type=2 #100
+2026/03/31-21:27:49.660 55ac Delete type=2 #114
+2026/03/31-21:27:49.661 55ac Delete type=2 #116
+2026/03/31-21:27:49.661 55ac Delete type=2 #129
+2026/03/31-21:27:49.662 55ac Delete type=2 #141
+2026/03/31-21:27:49.662 55ac Delete type=2 #147
+2026/03/31-21:27:49.663 55ac Delete type=2 #150
+2026/03/31-21:27:49.663 55ac Delete type=2 #152
+2026/03/31-21:27:49.663 55ac Delete type=2 #154
+2026/03/31-21:27:49.664 55ac Delete type=2 #155
