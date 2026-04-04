@@ -1,18 +1,37 @@
-2026/03/31-21:27:49.618 5728 Delete type=3 #1
-2026/03/31-21:27:49.618 55ac Compacting 13@0 + 0@1 files
-2026/03/31-21:27:49.657 55ac Generated table #158@0: 278 keys, 263085 bytes
-2026/03/31-21:27:49.657 55ac Compacted 13@0 + 0@1 files => 263085 bytes
-2026/03/31-21:27:49.658 55ac compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/03/31-21:27:49.658 55ac Delete type=2 #90
-2026/03/31-21:27:49.659 55ac Delete type=2 #92
-2026/03/31-21:27:49.659 55ac Delete type=2 #95
-2026/03/31-21:27:49.659 55ac Delete type=2 #100
-2026/03/31-21:27:49.660 55ac Delete type=2 #114
-2026/03/31-21:27:49.661 55ac Delete type=2 #116
-2026/03/31-21:27:49.661 55ac Delete type=2 #129
-2026/03/31-21:27:49.662 55ac Delete type=2 #141
-2026/03/31-21:27:49.662 55ac Delete type=2 #147
-2026/03/31-21:27:49.663 55ac Delete type=2 #150
-2026/03/31-21:27:49.663 55ac Delete type=2 #152
-2026/03/31-21:27:49.663 55ac Delete type=2 #154
-2026/03/31-21:27:49.664 55ac Delete type=2 #155
+2026/04/04-15:28:11.198 4e0c Recovering log #160
+2026/04/04-15:28:11.199 4e0c Level-0 table #162: started
+2026/04/04-15:28:11.204 4e0c Level-0 table #162: 52201 bytes OK
+2026/04/04-15:28:11.212 4e0c Delete type=2 #90
+2026/04/04-15:28:11.212 4e0c Delete type=2 #92
+2026/04/04-15:28:11.212 4e0c Delete type=0 #93
+2026/04/04-15:28:11.212 4e0c Delete type=2 #95
+2026/04/04-15:28:11.213 4e0c Delete type=2 #100
+2026/04/04-15:28:11.213 4e0c Delete type=0 #101
+2026/04/04-15:28:11.213 4e0c Delete type=2 #114
+2026/04/04-15:28:11.214 4e0c Delete type=2 #116
+2026/04/04-15:28:11.214 4e0c Delete type=0 #117
+2026/04/04-15:28:11.214 4e0c Delete type=2 #129
+2026/04/04-15:28:11.215 4e0c Delete type=0 #131
+2026/04/04-15:28:11.215 4e0c Delete type=0 #140
+2026/04/04-15:28:11.215 4e0c Delete type=2 #141
+2026/04/04-15:28:11.216 4e0c Delete type=0 #157
+2026/04/04-15:28:11.216 4e0c Delete type=0 #160
+2026/04/04-15:28:11.216 4e0c Delete type=3 #91
+2026/04/04-15:28:11.217 4e0c Delete type=3 #99
+2026/04/04-15:28:11.217 4e0c Delete type=3 #115
+2026/04/04-15:28:11.217 4e0c Delete type=3 #130
+2026/04/04-15:28:11.218 4e0c Delete type=3 #138
+2026/04/04-15:28:11.218 4e0c Delete type=3 #156
+2026/04/04-15:28:11.218 4e0c Delete type=3 #159
+2026/04/04-15:29:05.656 27cc Level-0 table #165: started
+2026/04/04-15:29:05.671 27cc Level-0 table #165: 32887 bytes OK
+2026/04/04-15:29:05.673 27cc Delete type=0 #163
+2026/04/04-15:29:05.674 27cc Manual compaction at level-0 from '!folders!3c6FfOT7dCu1jtDp' @ 72057594037927935 : 1 .. '!items.effects!vUEuP6L89DcDonBA.hmtLeNHwzXQnOkCa' @ 0 : 0; will stop at '!items.effects!vUEuP6L89DcDonBA.hmtLeNHwzXQnOkCa' @ 3419 : 1
+2026/04/04-15:29:05.674 27cc Compacting 2@0 + 1@1 files
+2026/04/04-15:29:05.688 27cc Generated table #166@0: 278 keys, 263633 bytes
+2026/04/04-15:29:05.688 27cc Compacted 2@0 + 1@1 files => 263633 bytes
+2026/04/04-15:29:05.690 27cc compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/04-15:29:05.690 27cc Delete type=2 #158
+2026/04/04-15:29:05.691 27cc Delete type=2 #162
+2026/04/04-15:29:05.691 27cc Delete type=2 #165
+2026/04/04-15:29:07.134 27cc Manual compaction at level-0 from '!items.effects!vUEuP6L89DcDonBA.hmtLeNHwzXQnOkCa' @ 3419 : 1 .. '!items.effects!vUEuP6L89DcDonBA.hmtLeNHwzXQnOkCa' @ 0 : 0; will stop at (end)

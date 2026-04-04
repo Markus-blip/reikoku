@@ -1,10 +1,10 @@
 {
   "id": "reikoku",
   "title": "Reikoku",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "compatibility": {
     "minimum": "13",
-    "verified": "13"
+    "verified": "14"
   },
   "description": "<p>In una terra isolata da tempeste eterne, il fumo dell'incenso è l'unico confine tra il respiro dei vivi e quello degli Yōkai.</p>",
   "flags": {
